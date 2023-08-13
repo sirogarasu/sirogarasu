@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirogarasu&layout=compact&theme=radical&show_icons=true" >
-  <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api?username=sirogarasu&show_icons=true&theme=radical&show_icons=tru" >
+  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirogarasu&layout=compact&theme=radical&show_icons=true" >
+  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api?username=sirogarasu&show_icons=true&theme=radical&show_icons=tru" >
 </p>
