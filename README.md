@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirogarasu&layout=compact&theme=radical&show_icons=true" >
   <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api?username=sirogarasu&show_icons=true&theme=radical&show_icons=tru" >
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sirogarasu&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
